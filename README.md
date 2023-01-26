@@ -16,7 +16,7 @@ Métodos:<br>
 - Depositar(valor);
 - Transferir(valor, conta_destino)
 - Ver_Saldo(); 
-<br><br>
+<br>
 Pessoas Envolvidas:
 <br>
 Funcionário Gerente:<br>
