@@ -17,7 +17,7 @@ Métodos:<br>
 - Transferir(valor, conta_destino)
 - Ver_Saldo(); 
 <br><br>
-Pessoas Envolvidas:<br>
+Pessoas Envolvidas:
 <br>
 Funcionário Gerente:<br>
 - Nome
