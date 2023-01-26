@@ -10,25 +10,25 @@ Atributos:<br><br>
 - Agência
 - Saldo
 - Limite
-- Gerente
- Métodos:
+- Gerente<br>
+Métodos:<br>
 - Sacar(valor);
 - Depositar(valor);
 - Transferir(valor, conta_destino)
-- Ver_Saldo(); 
-###Pessoas Envolvidas:
-###Funcionário Gerente:
+- Ver_Saldo(); <br>
+Pessoas Envolvidas:<br>
+Funcionário Gerente:<br>
 - Nome
 - CPF
 - ID_Funcionário
-- Cargo
-###Titular – Pessoa Física:
+- Cargo<br>
+Titular – Pessoa Física:<br>
 - Nome
 - CPF
 - Renda
 - Data_Nascimento
 - Endereço
-###Titular – Pessoa Jurídica:
+<br>Titular – Pessoa Jurídica:<br>
 - Razao_Social
 - CNPJ
 - Faturamento
