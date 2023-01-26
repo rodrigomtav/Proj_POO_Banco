@@ -4,7 +4,7 @@ Descrição
 Desenvolver a programação que deverá manipular dados de uma conta bancária, tendo uma
 restrição, que será apenas manipular contas de um mesmo banco.
 Conta Bancária:
-Atributos:
+Atributos:<br><br>
 - Titular
 - Número
 - Agência
@@ -15,7 +15,7 @@ Atributos:
 - Sacar(valor);
 - Depositar(valor);
 - Transferir(valor, conta_destino)
-- Ver_Saldo();
+- Ver_Saldo(); 
 ###Pessoas Envolvidas:
 ###Funcionário Gerente:
 - Nome
